@@ -13,3 +13,6 @@ I implemented TheDotGameGA as a proof of concept of/practice for implementing ge
 
 Also included is a class that helps the user create obstacles that disable any dot that comes in contact with them from moving. This served as an additional challenge for the dots to adapt to.
 
+After verifying that my implementation of genetic algorithms work, I moved on to making the SnakeAI.
+
+![dot demo](images/dot_demo.png)
