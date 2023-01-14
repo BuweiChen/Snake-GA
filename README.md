@@ -31,6 +31,10 @@ Note 2: because I didn't know any better way to store data at that time, I also 
 
 ![snake_demo](images/snake_demo.png)
 
+### Traning Data
+
+I've included some of the training data that I've backed up in case of catastrophic failure. They are kind of funny looking. I get a good laugh out of them every time I look.
+
 ### Poster
 
 Finally, I have also included the [poster board](https://github.com/BuweiChen/Snake-GA/blob/main/Science%20Fair%20Poster%20ANN_GA.pdf) I made for my project, which I presented at ISEF 2020. The poster reviews the project as a whole and goes more in-depth about the various techniques used.
