@@ -30,3 +30,9 @@ Note: both the replay and the animation show the activation of the snake's neuro
 Note 2: because I didn't know any better way to store data at that time, I also wrote programs that saved and read data in/from text files. In hinesight this was janky but also kind of ingenius in a funny way.
 
 ![snake_demo](images/snake_demo.png)
+
+### Poster
+
+Finally, I have also included the [poster board](https://github.com/BuweiChen/Snake-GA/blob/main/Science%20Fair%20Poster%20ANN_GA.pdf) I made for my project, which I presented at ISEF 2020. The poster reviews the project as a whole and goes more in-depth about the various techniques used.
+
+![poster](images/poster.png)
