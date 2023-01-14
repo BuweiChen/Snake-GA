@@ -13,6 +13,19 @@ I implemented TheDotGameGA as a proof of concept of/practice for implementing ge
 
 Also included is a class that helps the user create obstacles that disable any dot that comes in contact with them from moving. This served as an additional challenge for the dots to adapt to.
 
-After verifying that my implementation of genetic algorithms work, I moved on to making the SnakeAI.
+After verifying that my implementation of genetic algorithms works, I moved on to making the SnakeGA.
 
 ![dot demo](images/dot_demo.png)
+
+### SnakeGA
+
+I used the same genetic algorithms to train feedforward neural nets to play the game of snake. The snake could see in 8 directions and could see its own body and the map's boundary. Each snake's fitness is defined by how many apples it could eat and how long it survives. Genetic algorithms were applied to optimize the weights of the FNNs through generations. 
+
+I have included a replay function that plays back the best performance of any snake. This also means that over the generations the best snakes are recorded as well as where the apples spawned each time during their best runs.
+
+I have also included the option for training with and without animation. The animation shows the performance of the best snake from each generation as it happens, but displaying the geometries slows down the training by quite a bit.
+
+Note: both the replay and the animation show the activation of the snake's neurons, or how the snake "thinks."
+Note 2: because I didn't know any better way to store data at that time, I also wrote programs that save and read data in/from text files. In hinesight this was janky but also kind of ingenius in a funny way.
+
+![snake_demo](images/snake_demo.png)
