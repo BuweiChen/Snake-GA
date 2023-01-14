@@ -26,6 +26,7 @@ I have included a replay function that plays back the best performance of any sn
 I have also included the option for training with and without animation. The animation shows the performance of the best snake from each generation as it happens, but displaying the geometries slows down the training by quite a bit.
 
 Note: both the replay and the animation show the activation of the snake's neurons, or how the snake "thinks."
-Note 2: because I didn't know any better way to store data at that time, I also wrote programs that save and read data in/from text files. In hinesight this was janky but also kind of ingenius in a funny way.
+
+Note 2: because I didn't know any better way to store data at that time, I also wrote programs that saved and read data in/from text files. In hinesight this was janky but also kind of ingenius in a funny way.
 
 ![snake_demo](images/snake_demo.png)
