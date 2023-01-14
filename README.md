@@ -36,3 +36,7 @@ Note 2: because I didn't know any better way to store data at that time, I also 
 Finally, I have also included the [poster board](https://github.com/BuweiChen/Snake-GA/blob/main/Science%20Fair%20Poster%20ANN_GA.pdf) I made for my project, which I presented at ISEF 2020. The poster reviews the project as a whole and goes more in-depth about the various techniques used.
 
 ![poster](images/poster.png)
+
+### Final Remarks
+
+I want to acknowledge the people who have made this project possible. I took much inspiration from The Coding Train's series [**The Nature of Code**](https://youtu.be/9zfeTw-uFCw) on YouTube. I also learned a lot from seeing how others implemented similar SnakeAI projects, like this Code Bullet [video](https://youtu.be/3bhP7zulFfY). And of course, Mr. Juranitch provided me with crucial guidance during the brainstorming stage of the project, and continued to be a valuable resourse throughout. Thank you!
