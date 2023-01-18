@@ -31,7 +31,7 @@ Note 2: because I didn't know any better way to store data at that time, I also 
 
 ![snake_demo](images/snake_demo.png)
 
-### Traning Data
+### Training Data
 
 I've included some of the training data that I've backed up in case of catastrophic failure. They are kind of funny looking, especially the "saved population" ones: since I decided to story every neuron connection of every snake of the generation in a text file, the file is atrociously large. I get a good laugh out of them every time I look.
 
@@ -43,4 +43,4 @@ Finally, I have also included the [poster board](https://github.com/BuweiChen/Sn
 
 ### Final Remarks
 
-I want to acknowledge the people who have made this project possible. I took much inspiration from The Coding Train's series [**The Nature of Code**](https://youtu.be/9zfeTw-uFCw) on YouTube. I also learned a lot from seeing how others implemented similar SnakeAI projects, like this Code Bullet [video](https://youtu.be/3bhP7zulFfY). And of course, Mr. Juranitch provided me with crucial guidance during the brainstorming stage of the project, and continued to be a valuable resourse throughout. Thank you!
+I want to acknowledge the people who have made this project possible. I took much inspiration from The Coding Train's series [**The Nature of Code**](https://youtu.be/9zfeTw-uFCw) on YouTube. I also learned a lot from seeing how others implemented similar SnakeAI projects, like this [Code Bullet video](https://youtu.be/3bhP7zulFfY). And of course, Mr. Juranitch provided me with crucial guidance during the brainstorming stage of the project, and continued to be a valuable resourse throughout. Thank you!
