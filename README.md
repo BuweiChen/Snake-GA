@@ -33,7 +33,7 @@ Note 2: because I didn't know any better way to store data at that time, I also 
 
 ### Training Data
 
-I've included some of the training data that I've backed up in case of catastrophic failure. They are kind of funny looking, especially the "saved population" ones: since I decided to story every neuron connection of every snake of the generation in a text file, the file is atrociously large. I get a good laugh out of them every time I look.
+I've included some of the training data that I've backed up in case of catastrophic failure. They are kind of funny looking, especially the "saved population" ones: since I decided to store every neuron connection of every snake of the generation in a text file, the file is atrociously large. I get a good laugh out of them every time I look.
 
 ### Poster
 
