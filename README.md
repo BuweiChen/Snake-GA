@@ -3,6 +3,15 @@ Hi! Welcome to my 2020 ISEF Finalist project on training an AI with genetic algo
 
 This project, titled **Implementing Supervised Deep Learning with Feedforward Neural Network Using Genetic Algorithms**, had qualified for and was submitted to Regeneron ISEF 2020, here is a link to the [abstract](https://abstracts.societyforscience.org/Home/FullAbstract?Category=Any%20Category&AllAbstracts=True&FairCountry=Any%20Country&FairState=Any%20State&ProjectId=19336), the content of which I have also included below.
 
+## Get Started
+First, clone the repository.
+
+To run SnakeGA, cd into SnakeGA and run
+``java -cp bin FrameForReplay``
+
+To run TheDotGameGA, cd into TheDotGameGA and run
+``java -cp bin Frame``
+
 ### Abstract
 
 Neural networks and genetic algorithms (GAs) are two techniques for optimization and machine learning, each with its own strengths and weaknesses. This project demonstrated the efficiency and applications of genetic algorithms and a neural network trained with genetic algorithms by implementing a combination of both to solve simulated problems without pre-existing data. A smart dots simulation program was designed and programmed in which the dots found the most efficient way to the goal using GAs. Then, a feedforward neural network (FNN) was designed for playing the game of Snake and was trained by GAs. The algorithms were implemented for each problem in Java. For each generation, the fitness of the fittest individual and the fitness sum of the population were recorded, and graphed in excel. Data was analyzed for trend of growth. The genetic algorithm trained the Snake FNN to reach local minimum for errors over 6000 generations. A popular game strategy in the population emerged and became more obvious towards the end of training. The fitness sums of generations of both the smart dots simulation and the Snake FNN reflected logistic growth. The smart dots simulation consistently found the solution within the first 15 generations and optimized it in the next 100 generations. This project demonstrated that a combination of GAs and neural networks could be used to effectively solve complex pattern classification problems without pre-existing data. This method could be applied to various fields, such as drug research, where it can be used to find the best-performing drugs from an array of possible candidates.

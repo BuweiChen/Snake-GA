@@ -4,7 +4,7 @@ import java.io.UnsupportedEncodingException;
 import javax.swing.JFrame;
 public class FrameForReplay {
 
-	public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException {
+	public static void main(String[] args) throws Exception {
 		// TODO Auto-generated method stub
 		JFrame obj = new JFrame();
 		Replay replay = new Replay();
